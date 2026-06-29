@@ -30,6 +30,8 @@ Services that accept ruble payments and have working infrastructure for Russian 
 
 - **[Cloak](https://github.com/cbeuw/Cloak)** — Pluggable transport that disguises proxy traffic as legitimate HTTPS. Often used in combination with Shadowsocks.
 
+- **[ByGate](https://bygate.org)** — Russia-focused VPN on VLESS+Reality (sing-box client). Native apps for Windows, macOS and Android, single anonymous account without email. Split tunneling (Russian services routed directly) and automatic failover to a backup endpoint. Russian bank cards, SBP and crypto payments from 149 ₽/mo, unlimited traffic and devices. Telegram bot: [@bygate_bot](https://t.me/bygate_bot).
+
 ## Self-Hosted / Open-Source
 
 For users with technical skills and willingness to maintain their own VPS.
